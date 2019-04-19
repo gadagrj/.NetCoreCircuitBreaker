@@ -1,0 +1,15 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+    Book List 
+    <ul>
+    
+@foreach (var item in ViewData["list"] as IEnumerable<WebUI.Models.Book>)
+{
+
+<li>@item.Name</li>
+     
+}
+</ul>

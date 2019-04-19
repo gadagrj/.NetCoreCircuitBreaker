@@ -1,0 +1,14 @@
+E:\2019\NetCore-CircuitBreaker\WebAPI-downstream\WebAPI-downstream\bin\Debug\netcoreapp2.2\WebAPI-downstream.deps.json
+E:\2019\NetCore-CircuitBreaker\WebAPI-downstream\WebAPI-downstream\bin\Debug\netcoreapp2.2\WebAPI-downstream.runtimeconfig.json
+E:\2019\NetCore-CircuitBreaker\WebAPI-downstream\WebAPI-downstream\bin\Debug\netcoreapp2.2\WebAPI-downstream.runtimeconfig.dev.json
+E:\2019\NetCore-CircuitBreaker\WebAPI-downstream\WebAPI-downstream\bin\Debug\netcoreapp2.2\WebAPI-downstream.dll
+E:\2019\NetCore-CircuitBreaker\WebAPI-downstream\WebAPI-downstream\obj\Debug\netcoreapp2.2\WebAPI-downstream.csprojAssemblyReference.cache
+E:\2019\NetCore-CircuitBreaker\WebAPI-downstream\WebAPI-downstream\obj\Debug\netcoreapp2.2\WebAPI-downstream.csproj.CoreCompileInputs.cache
+E:\2019\NetCore-CircuitBreaker\WebAPI-downstream\WebAPI-downstream\obj\Debug\netcoreapp2.2\WebAPI-downstream.RazorAssemblyInfo.cache
+E:\2019\NetCore-CircuitBreaker\WebAPI-downstream\WebAPI-downstream\obj\Debug\netcoreapp2.2\WebAPI-downstream.RazorAssemblyInfo.cs
+E:\2019\NetCore-CircuitBreaker\WebAPI-downstream\WebAPI-downstream\obj\Debug\netcoreapp2.2\WebAPI-downstream.AssemblyInfoInputs.cache
+E:\2019\NetCore-CircuitBreaker\WebAPI-downstream\WebAPI-downstream\obj\Debug\netcoreapp2.2\WebAPI-downstream.AssemblyInfo.cs
+E:\2019\NetCore-CircuitBreaker\WebAPI-downstream\WebAPI-downstream\obj\Debug\netcoreapp2.2\WebAPI-downstream.RazorTargetAssemblyInfo.cache
+E:\2019\NetCore-CircuitBreaker\WebAPI-downstream\WebAPI-downstream\bin\Debug\netcoreapp2.2\WebAPI-downstream.pdb
+E:\2019\NetCore-CircuitBreaker\WebAPI-downstream\WebAPI-downstream\obj\Debug\netcoreapp2.2\WebAPI-downstream.dll
+E:\2019\NetCore-CircuitBreaker\WebAPI-downstream\WebAPI-downstream\obj\Debug\netcoreapp2.2\WebAPI-downstream.pdb
